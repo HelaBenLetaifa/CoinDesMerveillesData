@@ -1,0 +1,58 @@
+{
+  "pageTitle": "Guide d'Entretien : Terrariums et Plantes Grasses",
+  "introduction": "Les terrariums de plantes grasses et les succulentes sont des ajouts magnifiques et relativement faciles d'entretien à votre intérieur. Cependant, pour les voir s'épanouir, quelques principes clés sont à respecter. Suivez ce guide pour garder vos petites merveilles en pleine santé !",
+  "sections": [
+    {
+      "title": "Entretien Général du Terrarium de Plantes Grasses",
+      "image": "/img/terrarium_1.jpg",
+      "imageAlt": "Terrarium de plantes grasses avec différentes succulentes",
+      "content": [
+        "**Lumière :** Placez votre terrarium dans un endroit très lumineux, mais évitez le soleil direct de l'après-midi qui pourrait les brûler à travers le verre. Une fenêtre orientée sud ou ouest est idéale, avec un voilage si le soleil est trop intense. Un manque de lumière entraînera un étiolement (plantes qui s'allongent et deviennent pâles).",
+        "**Ventilation :** Les terrariums de plantes grasses doivent être ouverts. Ne les couvrez jamais, car l'humidité stagnante est leur pire ennemi et entraînerait rapidement la pourriture.",
+        "**Température :** Maintenez une température stable, idéalement entre 18°C et 25°C. Évitez les courants d'air froids ou les variations extrêmes.",
+        "**Nettoyage :** Essuyez régulièrement les parois en verre du terrarium pour enlever la poussière et les traces de calcaire, afin de maximiser la lumière et l'esthétique."
+      ]
+    },
+    {
+      "title": "Arrosage des Plantes Grasses (dans et hors du terrarium)",
+      "image": "/img/arrosage.png",
+      "imageAlt": "Personne arrosant délicatement une succulente",
+      "content": [
+        "**Le piège n°1 : l'excès d'eau !** Les plantes grasses stockent l'eau dans leurs feuilles et leurs tiges. Elles préfèrent la sécheresse à l'humidité constante.",
+        "**Fréquence :** N'arrosez que lorsque le substrat est complètement sec, sur toute la profondeur. Cela peut prendre 2 à 4 semaines en été, et beaucoup plus longtemps (1 à 2 mois) en hiver.",
+        "**Comment arroser :** Utilisez une pipette ou une petite bouteille à bec verseur pour viser la base de chaque plante, sans mouiller les feuilles. Pour les terrariums, arrosez avec parcimonie pour ne pas saturer le substrat. Si la terre est vraiment très sèche et compacte, vous pouvez légèrement la gratter avant d'arroser pour aider à la pénétration de l'eau.",
+        "**Drainage :** Un terrarium de plantes grasses doit avoir une couche de drainage (graviers, billes d'argile) au fond pour éviter que l'eau ne stagne. Cela est crucial car les terrariums n'ont pas de trou de drainage.",
+        "**Signes de soif :** Les feuilles peuvent sembler un peu ridées ou molles. Elles reprendront leur fermeté après un arrosage."
+      ]
+    },
+    {
+      "title": "Type de Sol et Rempotage",
+      "image": "/img/rempotage.png",
+      "imageAlt": "Substrat de terreau pour succulentes avec des roches et du sable",
+      "content": [
+        "**Substrat :** Utilisez un terreau spécifique pour cactées et succulentes, ou créez le vôtre en mélangeant du terreau classique avec beaucoup de sable grossier, de perlite ou de ponce. L'objectif est un drainage maximal.",
+        "**Rempotage :** Les plantes grasses n'aiment pas être rempotées trop souvent. Faites-le uniquement si la plante est devenue trop grande pour son pot ou si le substrat est très compacté et ne draine plus bien. Utilisez un pot à peine plus grand."
+      ]
+    },
+    {
+      "title": "Fertilisation et Maladies",
+      "image": "/img/fertilisation.png",
+      "imageAlt": "Gros plan sur une succulente en bonne santé",
+      "content": [
+        "**Fertilisation :** Les plantes grasses ont peu besoin d'engrais. Un apport léger d'engrais pour cactées dilué au quart, une fois par an au printemps, est amplement suffisant si vous le souhaitez. Beaucoup se portent très bien sans aucun engrais.",
+        "**Maladies/Parasites :** Elles sont généralement résistantes. Les problèmes surviennent le plus souvent à cause de l'excès d'eau (pourriture, champignons). Surveillez les cochenilles farineuses (petites boules blanches cotonneuses) et traitez-les avec un coton-tige imbibé d'alcool à 70° ou un insecticide doux si nécessaire."
+      ]
+    },
+    {
+      "title": "Conseils Spécifiques aux Plantes Grasses Individuelles",
+      "image": "/img/entretien.png",
+      "imageAlt": "Assortiment de différentes variétés de plantes grasses",
+      "content": [
+        "Bien que les principes généraux s'appliquent, chaque espèce peut avoir des besoins légèrement différents. N'hésitez pas à rechercher les besoins spécifiques de vos variétés une fois que vous les avez identifiées (par exemple, Echeveria, Crassula, Sedum, Aloe, Haworthia).",
+        "**Rotation :** Tournez régulièrement vos plantes pour qu'elles reçoivent de la lumière de tous les côtés et poussent de manière uniforme.",
+        "**Observation :** La meilleure façon d'apprendre est d'observer vos plantes. Elles vous diront si elles ont soif, trop de soleil, ou pas assez de lumière par leur apparence."
+      ]
+    }
+  ],
+  "conclusion": "Avec un peu d'attention et en évitant l'excès d'eau, vos terrariums et plantes grasses prospéreront et apporteront une touche de verdure unique à votre espace. Bon jardinage !"
+}
