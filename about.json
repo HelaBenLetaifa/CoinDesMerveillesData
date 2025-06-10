@@ -3,40 +3,41 @@
     "title": "À propos de moi",
     "subtitle": "Passion · Création · Nature",
     "image": "https://drive.google.com/uc?export=view&id=1KJqg4GN7FG1RbEJxjDEgwWLDKovIKfdf",
-    "imageAlt": "Hela Ben Letaifa avec des plantes"
+    "imageAlt": "Portrait de Hela Ben Letaifa entourée de plantes vertes"
   },
-  "introduction": "Je m'appelle Hela Ben Letaifa, diplômée d'un Master en Horticulture, et passionnée depuis toujours par les plantes et l'univers végétal.",
+  "introduction": "Je m'appelle Hela Ben Letaifa, diplômée d'un Master en Horticulture. Passionnée par le monde végétal depuis mon enfance, je crée des compositions uniques qui allient savoir-faire scientifique et sensibilité artistique.",
   "mission": {
     "title": "Ma Mission",
     "description": [
-      "Ce projet est né de mon envie de partager ma passion pour les terrariums, les cactus et les plantes grasses avec un plus grand public.",
-      "Chaque composition que je crée est le fruit de mes connaissances scientifiques et de ma sensibilité artistique : des mini-jardins esthétiques, faciles à entretenir, qui apportent une touche de nature et de sérénité dans votre quotidien."
+      "Mon projet est né de l'envie de partager ma passion pour les terrariums, cactus et plantes grasses avec le plus grand nombre.",
+      "Chaque création est conçue comme un écosystème miniature autonome, nécessitant peu d'entretien tout en apportant une touche de nature à votre intérieur."
     ],
     "image": "https://drive.google.com/uc?export=view&id=1dsvSD19VQbiAbuhAXI986B03GWEvwB_K",
-    "imageAlt": "Création de terrariums"
+    "imageAlt": "Processus de création d'un terrarium artisanal"
   },
   "values": {
     "title": "Mes Valeurs",
     "items": [
       {
         "icon": "🌿",
-        "title": "Artisanal",
-        "description": "Créations faites main en Tunisie avec soin et amour"
+        "title": "Artisanat Local",
+        "description": "Fabriqué main en Tunisie avec des matériaux soigneusement sélectionnés"
       },
       {
-        "icon": "🌍",
-        "title": "Écologique",
-        "description": "Respect de l'environnement dans chaque étape"
+        "icon": "♻️",
+        "title": "Éco-responsable",
+        "description": "Emballages recyclables et processus respectueux de l'environnement"
       },
       {
-        "icon": "🎓",
-        "title": "Pédagogique",
-        "description": "Rendre le monde végétal accessible à tous"
+        "icon": "📚",
+        "title": "Transmission",
+        "description": "Ateliers et conseils pour apprendre à entretenir vos plantes"
       }
     ]
   },
   "cta": {
-    "text": "Merci de me suivre dans cette belle aventure végétale 🌱",
-    "buttonText": "Découvrir mes créations"
+    "text": "Rejoignez-moi dans cette aventure végétale et découvrez l'art du jardin miniature",
+    "buttonText": "Voir mes créations",
+    "buttonLink": "/produits"
   }
 }
