@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "DÉCORATION CACTUS",
+    "tagline": "MAGNIFIQUE DEPUIS Coin des Merveilles",
+    "description": "Ajoutez une touche de nature à votre intérieur avec nos cactus décoratifs.",
+    "ctaText": "DÉCOUVRIR",
+    "image": "https://i.imgur.com/TPnjffS.png"
+  },
+  {
+    "id": 2,
+    "title": "COLLECTION DE SUCCULENTES",
+    "tagline": "EXCLUSIVITÉ DEPUIS Coin des Merveilles",
+    "description": "Découvrez notre collection unique de plantes grasses, parfaites pour tous les espaces.",
+    "ctaText": "ACHETER MAINTENANT",
+    "image": "https://i.imgur.com/DW0eiw8.png"
+  },
+  {
+    "id": 3,
+    "title": "TERRARIUM",
+    "tagline": "PREMIUM DEPUIS Coin des Merveilles",
+    "description": "Offrez un écosystème miniature à votre maison avec nos terrariums faits main.",
+    "ctaText": "EXPLORER",
+    "image": "https://i.imgur.com/LmCJGGK.jpeg"
+  }
+]
