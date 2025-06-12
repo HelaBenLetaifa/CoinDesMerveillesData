@@ -4,7 +4,7 @@
   "sections": [
     {
       "title": "Entretien Général du Terrarium de Plantes Grasses",
-      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium.png",
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/terrarium_1.jpg",
       "imageAlt": "Terrarium de plantes grasses avec différentes succulentes",
       "content": [
         "**Lumière :** Placez votre terrarium dans un endroit très lumineux, mais évitez le soleil direct de l'après-midi qui pourrait les brûler à travers le verre. Une fenêtre orientée sud ou ouest est idéale, avec un voilage si le soleil est trop intense. Un manque de lumière entraînera un étiolement (plantes qui s'allongent et deviennent pâles).",
@@ -15,7 +15,7 @@
     },
     {
       "title": "Arrosage des Plantes Grasses (dans et hors du terrarium)",
-      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/succulent.png",
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/arrosage.png",
       "imageAlt": "Personne arrosant délicatement une succulente",
       "content": [
         "**Le piège n°1 : l'excès d'eau !** Les plantes grasses stockent l'eau dans leurs feuilles et leurs tiges. Elles préfèrent la sécheresse à l'humidité constante.",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Type de Sol et Rempotage",
-      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/cactus2.png",
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/rempotage.png",
       "imageAlt": "Substrat de terreau pour succulentes avec des roches et du sable",
       "content": [
         "**Substrat :** Utilisez un terreau spécifique pour cactées et succulentes, ou créez le vôtre en mélangeant du terreau classique avec beaucoup de sable grossier, de perlite ou de ponce. L'objectif est un drainage maximal.",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Fertilisation et Maladies",
-      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/succulent.png",
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/fertilisation.png",
       "imageAlt": "Gros plan sur une succulente en bonne santé",
       "content": [
         "**Fertilisation :** Les plantes grasses ont peu besoin d'engrais. Un apport léger d'engrais pour cactées dilué au quart, une fois par an au printemps, est amplement suffisant si vous le souhaitez. Beaucoup se portent très bien sans aucun engrais.",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Conseils Spécifiques aux Plantes Grasses Individuelles",
-      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/cactus2.png",
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/entretien.png",
       "imageAlt": "Assortiment de différentes variétés de plantes grasses",
       "content": [
         "Bien que les principes généraux s'appliquent, chaque espèce peut avoir des besoins légèrement différents. N'hésitez pas à rechercher les besoins spécifiques de vos variétés une fois que vous les avez identifiées (par exemple, Echeveria, Crassula, Sedum, Aloe, Haworthia).",
