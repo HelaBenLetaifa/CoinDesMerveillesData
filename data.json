@@ -1,0 +1,171 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Terrarium Désert Miniature",
+      "description": "Un élégant écosystème de succulentes dans un globe de verre transparent.",
+      "price": 120,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium_1.jpg",
+      "category": "terrarium",
+      "dimensions": "Diamètre: 20 cm / Hauteur: 18 cm",
+      "details": "Ce terrarium ouvert présente une collection soigneusement sélectionnée de succulentes et de cactus miniatures disposés dans un substrat spécialement formulé pour les plantes xérophytes. Chaque pièce est assemblée à la main pour créer une composition désertique unique et durable.",
+      "care": "Placez votre terrarium dans un endroit ensoleillé. Un arrosage modéré toutes les 2-3 semaines est recommandé, en laissant le substrat sécher complètement entre les arrosages. Idéal pour les personnes ayant peu de temps pour l'entretien.",
+      "visualDescription": "Terrarium sphérique en verre transparent contenant une composition de succulentes variées. On y distingue plusieurs espèces dont un aloe aux feuilles pointues au centre, un petit cactus bleu coloré sur la droite, et d'autres plantes succulentes aux feuilles charnues sur la gauche. Le substrat présente plusieurs couches esthétiques avec du sable orange vif, des petits cailloux décoratifs et de la terre, créant un paysage désertique miniature élégant et vivant."
+    },
+    {
+      "id": 4,
+      "name": "Terrarium Horizon Désertique",
+      "description": "Un mini-désert élégant dans une sphère de verre avec succulentes et galet décoratif.",
+      "price": 50,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium5.jpg",
+      "category": "terrarium",
+      "dimensions": "Diamètre: 15 cm / Hauteur: 12 cm",
+      "details": "Ce terrarium ouvert en forme de sphère aplatie met en scène un paysage désertique minimaliste. Il combine plusieurs variétés de succulentes aux nuances de vert et un galet décoratif strié qui apporte une touche naturelle et zen. Le sable orangé évoque les horizons chauds des déserts et crée un contraste saisissant avec le vert vif des plantes.",
+      "care": "Idéal pour les débutants, ce terrarium nécessite peu d'entretien. Placez-le dans un endroit bien éclairé sans soleil direct. Un arrosage modéré toutes les 2-3 semaines suffit, en veillant à ce que le substrat sèche complètement entre chaque arrosage.",
+      "visualDescription": "Terrarium en verre transparent de forme sphérique légèrement aplatie, contenant une composition de succulentes aux feuilles épaisses et brillantes. Certaines présentent des teintes rougeâtres sur leurs bords. Un galet plat et strié de beige occupe une place centrale dans la composition. L'ensemble repose sur un lit de sable orange vif qui couvre entièrement le fond du contenant, créant une ambiance désertique chaude et apaisante."
+    },
+    {
+      "id": 7,
+      "name": "Terrarium Jardin de Rocaille",
+      "description": "Composition naturelle de cactus et succulentes avec éléments minéraux dans un verre élégant.",
+      "price": 55,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium9.jpg",
+      "category": "terrarium",
+      "dimensions": "Hauteur: 22 cm / Diamètre: 14 cm",
+      "details": "Ce terrarium ouvert en forme de verre à vin géant présente un écosystème désertique soigneusement composé. Il associe plusieurs variétés de cactus et succulentes avec des éléments naturels comme des pierres et galets pour créer un véritable paysage miniature. Les couches de substrat visibles apportent une dimension esthétique supplémentaire à cette pièce décorative unique.",
+      "care": "Placez votre terrarium dans un endroit lumineux sans soleil direct intense. Arrosez très modérément toutes les 3-4 semaines, en laissant le substrat sécher complètement entre les arrosages. L'ouverture large facilite l'entretien et permet une bonne circulation de l'air.",
+      "visualDescription": "Terrarium en verre transparent de forme évasée rappelant un grand verre à vin, contenant une composition variée de plantes grasses. On y trouve un cactus colonnaire épineux aux teintes cuivrées, un haworthia aux feuilles pointues et striées, de petites succulentes aux feuilles charnues, et d'autres variétés créant un ensemble harmonieux. Le paysage est agrémenté de pierres naturelles grises et de galets lisses qui ajoutent une dimension sculpturale. Le substrat présente des couches distinctes de sables et terres de différentes nuances, créant un effet géologique naturel."
+    },
+    {
+      "id": 8,
+      "name": "Terrarium Jardin de Succulentes",
+      "description": "Une composition harmonieuse de succulentes variées dans un bocal en verre rond.",
+      "price": 130,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium2.jpg",
+      "category": "terrarium",
+      "details": "Ce terrarium ouvert présente une sélection soigneusement choisie de succulentes aux formes et couleurs variées. On y trouve des plantes grasses aux feuilles épaisses, des succulentes rosettes et des variétés aux teintes vert-rouge. L'ensemble est agrémenté de pierres décoratives et repose sur un substrat multicouche visible à travers le verre transparent.",
+      "care": "Placez dans un endroit lumineux avec quelques heures de soleil indirect par jour. Arrosez modérément une fois par semaine en été, moins en hiver. Laissez le substrat sécher entre les arrosages pour éviter la pourriture des racines.",
+      "visualDescription": "Terrarium dans un bocal en verre rond et transparent, contenant un arrangement de succulentes diverses : des plantes grasses aux feuilles cylindriques vert foncé, une succulente rosette aux teintes vert-rouge, et d'autres variétés compactes. Le substrat présente des couches visibles avec du terreau sombre en surface, du sable et des graviers, ponctué de petites pierres décoratives grises et blanches qui complètent cette composition naturelle et équilibrée."
+    },
+    {
+      "id": 11,
+      "name": "Aloe Aristata en Pot Décoratif Chat",
+      "description": "Une magnifique plante succulente Aloe aristata (Aloès hérisson) présentée dans un pot en céramique avec un design de visage de chat adorable.",
+      "price": 30,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/succulent1.JPEG",
+      "category": "plante",
+      "dimensions": "Pot: 12 cm x 10 cm / Hauteur totale: 15 cm",
+      "details": "Cette Aloe aristata, également connue sous le nom d'Aloès hérisson, présente ses feuilles caractéristiques en rosette compacte, ornées de petites taches blanches et de bords légèrement dentés. Plantée dans un pot en céramique crème au design original représentant un visage de chat stylisé. Le drainage est optimisé par une couche de petites pierres décoratives colorées.",
+      "care": "Exposition lumineuse sans soleil direct intense. Arrosage modéré toutes les 2-3 semaines, en laissant le substrat sécher complètement entre les arrosages. Résiste bien à la sécheresse. Température optimale entre 15-25°C. Très facile d'entretien, idéale pour les débutants.",
+      "visualDescription": "Aloe aristata aux feuilles vertes épaisses et triangulaires disposées en rosette serrée, ornées de petites taches blanches caractéristiques et de bords finement dentés. La plante est présentée dans un pot en céramique beige clair au design original en forme de visage de chat avec des oreilles pointues et des traits faciaux délicats. Le substrat est agrémenté de petites pierres décoratives multicolores assurant un bon drainage et un rendu esthétique harmonieux."
+    },
+    {
+      "id": 12,
+      "name": "Terrarium Jade Compact",
+      "description": "Un élégant terrarium fermé présentant une plante de jade (Crassula) dans un vase en verre transparent avec substrat stratifié.",
+      "price": 25,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium7.jpg",
+      "category": "terrarium",
+      "dimensions": "Diamètre: 15 cm / Hauteur: 18 cm",
+      "details": "Ce terrarium fermé abrite une magnifique plante de jade aux feuilles charnues d'un vert éclatant. Le substrat présente une stratification décorative avec différentes couches de sable coloré, de terreau spécialisé et de petites pierres décoratives. L'ensemble crée un écosystème miniature auto-suffisant dans un vase en verre transparent de forme bulbeuse élégante.",
+      "care": "Terrarium fermé nécessitant très peu d'entretien. Placez dans un endroit lumineux sans exposition directe au soleil. L'arrosage n'est nécessaire que très occasionnellement (tous les 2-3 mois) si vous remarquez que les parois ne se couvrent plus de buée. L'écosystème se régule naturellement grâce au cycle de l'eau.",
+      "visualDescription": "Terrarium dans un vase en verre transparent de forme bulbeuse contenant une plante de jade (Crassula) aux feuilles épaisses, charnues et d'un vert vif disposées symétriquement. Le substrat présente plusieurs couches distinctes : une base de sable beige, une couche de terreau sombre, et des éléments décoratifs. L'ensemble crée une composition harmonieuse dans ce petit écosystème fermé auto-suffisant."
+    },
+    {
+      "id": 14,
+      "name": "Jardinière Rustique Duo Succulentes",
+      "description": "Une charmante jardinière artisanale en bois massif sur pieds, abritant un duo harmonieux de succulentes dans un style rustique authentique.",
+      "price": 65,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/Jardinière.png",
+      "category": "plante",
+      "dimensions": "Longueur: 25 cm / Largeur: 12 cm / Hauteur totale: 18 cm",
+      "details": "Cette jardinière unique est confectionnée à partir de bois massif aux teintes naturelles chaleureuses, renforcée par des sangles décoratives en tissu gris fixées par des rivets métalliques. Elle repose sur deux pieds robustes pour une stabilité optimale. La composition végétale présente une succulente aux feuilles charnues vert tendre en rosette et une haworthia aux feuilles pointues striées de blanc. Le substrat est agrémenté de graviers colorés pour un drainage parfait.",
+      "care": "Placez dans un endroit lumineux sans soleil direct intense. Arrosage modéré toutes les 2-3 semaines, en laissant le substrat sécher entre les arrosages. Le bois naturel nécessite une protection contre l'humidité excessive. Idéale en décoration d'intérieur ou sur une terrasse couverte.",
+      "visualDescription": "Jardinière rectangulaire en bois naturel aux tons chauds, renforcée par deux sangles textiles grises maintenues par des rivets métalliques et montée sur deux pieds en bois. Elle contient deux succulentes contrastées : une plante aux feuilles charnues vert clair disposées en rosette compacte, et une haworthia aux feuilles triangulaires vertes striées de motifs blancs pointant vers le haut. Le substrat est recouvert de petits graviers multicolores décoratifs."
+    },
+    {
+      "id": 15,
+      "name": "Terrarium Cocktail de Succulentes",
+      "description": "Un terrarium original et élégant présenté dans une coupe en verre sur pied, abritant un mélange harmonieux de succulentes miniatures.",
+      "price": 65,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/cap.png",
+      "category": "terrarium",
+      "dimensions": "Diamètre coupe: 18 cm / Hauteur totale: 22 cm",
+      "details": "Ce terrarium au design unique transforme une élégante coupe en verre sur pied en jardin miniature. La composition présente plusieurs variétés de succulentes soigneusement sélectionnées : une haworthia aux feuilles striées, des plantes de jade aux feuilles charnues, et d'autres espèces aux textures contrastées. Le substrat en couches visibles inclut du sable décoratif, du terreau spécialisé et des pierres volcaniques pour un drainage optimal.",
+      "care": "Exposition lumineuse indirecte recommandée. Arrosage très modéré toutes les 3-4 semaines, en veillant à ne pas créer d'excès d'humidité dans le contenant ouvert. Laissez sécher complètement entre les arrosages. Parfait comme pièce décorative sur une table ou un bureau.",
+      "visualDescription": "Terrarium sophistiqué dans une coupe en verre transparent montée sur un pied élégant. Le contenant abrite un assortiment de succulentes aux formes variées : une haworthia aux feuilles vertes striées de blanc, des plantes aux feuilles charnues vert jade, et d'autres petites succulentes. Le substrat présente des couches distinctes de sable beige et de terreau sombre, agrémenté de pierres décoratives rondes de couleur claire, créant un paysage miniature raffiné."
+    },
+    {
+      "id": 17,
+      "name": "Haworthia Limifolia Pot Tricolore Moderne",
+      "description": "Une magnifique haworthia limifolia aux nervures blanches caractéristiques dans un pot cylindrique moderne aux bandes colorées bleu, doré et beige.",
+      "price": 35,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/succulent1.jpg",
+      "category": "plante",
+      "dimensions": "Hauteur totale: 22 cm / Diamètre du pot: 10 cm / Hauteur du pot: 12 cm",
+      "details": "Cette composition met en valeur une haworthia limifolia aux feuilles triangulaires vert foncé marquées de nervures blanches transversales très prononcées, créant un motif géométrique naturel saisissant. La plante est présentée dans un pot en céramique au design contemporain tricolore : bleu marine en partie haute, doré métallisé au centre, et beige naturel en base. La rosette compacte et structurée s'harmonise parfaitement avec le style moderne du contenant.",
+      "care": "Exposition lumineuse sans soleil direct. Arrosage modéré toutes les 2-3 semaines, en laissant bien sécher le substrat entre les arrosages. Éviter l'eau stagnante. Température optimale 18-24°C. Plante très résistante, idéale pour débutants.",
+      "visualDescription": "Haworthia limifolia aux feuilles charnues triangulaires vert sombre avec des nervures blanches horizontales très marquées, formant une rosette dense et géométrique. Le pot cylindrique en céramique lisse présente trois bandes distinctes : bleu marine brillant en partie supérieure, bande dorée métallisée au centre, et base beige mate."
+    },
+    {
+      "id": 5,
+      "name": "Terrarium Sable Blanc & Succulentes",
+      "description": "Un paysage apaisant dans une sphère de verre avec succulentes et galets naturels.",
+      "price": 50,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium1.jpg",
+      "category": "terrarium",
+      "dimensions": "Diamètre: 15 cm / Hauteur: 13 cm",
+      "details": "Ce terrarium ouvert en forme de boule offre un décor minimaliste inspiré des paysages méditerranéens. Il accueille plusieurs succulentes aux feuilles charnues et élancées dans une composition harmonieuse reposant sur des couches de sable blanc, de terre sombre et de petits éléments décoratifs naturels, comme des galets beiges et un morceau de roche sableuse.",
+      "care": "Très facile d'entretien, ce terrarium convient parfaitement aux débutants. À placer dans un endroit lumineux sans soleil direct. Arroser légèrement toutes les 2-3 semaines, uniquement lorsque le substrat est totalement sec.",
+      "visualDescription": "Terrarium en verre sphérique transparent contenant plusieurs succulentes aux feuilles vertes charnues, orientées vers le haut. Le sol est stratifié avec du sable blanc éclatant en surface, une couche de terre sombre en dessous, et décoré de galets beige clair et d'un morceau de roche ocre, créant une ambiance naturelle et lumineuse."
+    },
+    {
+      "id": 3,
+      "name": "Terrarium Volcan Rouge",
+      "description": "Un décor audacieux avec des succulentes vibrantes sur un lit de sable rouge incandescent.",
+      "price": 52,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium3.jpg",
+      "category": "terrarium",
+      "dimensions": "Diamètre: 16 cm / Hauteur: 14 cm",
+      "details": "Ce terrarium ouvert marie élégamment les contrastes entre le rouge intense du sable et les tons naturels de la terre et des pierres. Il met en valeur une variété de succulentes compactes aux feuillages charnus, accompagnées de galets mouchetés et de roches volcaniques. Son design audacieux évoque des paysages volcaniques ou martiens, parfait pour une décoration intérieure originale.",
+      "care": "Très peu exigeant, ce terrarium est idéal pour ceux qui recherchent une plante décorative facile à vivre. Placez-le dans un endroit lumineux, à l'abri du soleil direct. Un arrosage léger toutes les 2 à 3 semaines est suffisant, en veillant à ce que le sol soit bien sec entre deux arrosages.",
+      "visualDescription": "Terrarium en verre transparent de forme sphérique légèrement aplatie, contenant plusieurs succulentes aux teintes vertes vives. Le fond est constitué d'une couche de sable rouge vif surmontée de terre brune, parsemée de galets gris mouchetés et de roches ocres. L'ensemble offre un contraste fort et une ambiance volcanique décorative."
+    },
+    {
+      "id": 6,
+      "name": "Terrarium Prairie Émeraude",
+      "description": "Un petit jardin vivant aux allures de prairie dans un écrin de verre, avec succulentes et sable vert vibrant.",
+      "price": 52,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium11.jpg",
+      "category": "terrarium",
+      "dimensions": "Diamètre: 16 cm / Hauteur: 14 cm",
+      "details": "Ce terrarium ouvert évoque un coin de nature luxuriante avec ses succulentes aux feuilles charnues et ses petites pierres décoratives. Le fond en sable vert émeraude attire immédiatement l'œil, apportant une touche originale et vivifiante à l'ensemble. Des galets beiges et des morceaux de roche volcanique complètent harmonieusement la composition.",
+      "care": "Facile à entretenir, ce terrarium est idéal pour les amateurs de plantes débutants. À placer dans un endroit lumineux, sans soleil direct. Arrosez modérément toutes les 2 à 3 semaines, en vous assurant que le sol soit bien sec entre deux arrosages.",
+      "visualDescription": "Terrarium sphérique en verre transparent contenant plusieurs plantes grasses aux feuilles vert foncé. Le sol est recouvert de sable vert vif contrastant avec la terre sombre. Des galets clairs et des roches brunes accentuent le style naturel, donnant l'impression d'un petit paysage de prairie fantastique."
+    },
+    {
+      "id": 19,
+      "name": "Terrarium Pomme Design Succulentes",
+      "description": "Un terrarium au design unique en forme de pomme en verre transparent, abritant une composition harmonieuse de succulentes miniatures dans un décor minéral coloré.",
+      "price": 85,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium14.jpg",
+      "category": "terrarium",
+      "dimensions": "Hauteur: 18 cm / Largeur: 15 cm / Profondeur: 15 cm",
+      "details": "Ce terrarium au design innovant reproduit la forme iconique d'une pomme avec sa tige caractéristique. L'intérieur présente une composition soigneusement équilibrée avec une haworthia centrale aux feuilles structurées, accompagnée de petites succulentes aux formes variées et d'une fougère miniature apportant une texture contrastante. Des galets dorés et naturels créent un chemin décoratif sur un substrat bicouche de sable blanc et terre brune.",
+      "care": "Exposition lumineuse indirecte. Arrosage très modéré toutes les 3-4 semaines par la large ouverture supérieure. Éviter l'accumulation d'eau. La forme fermée maintient un microclimat idéal pour les plantes.",
+      "visualDescription": "Terrarium en verre transparent en forme de pomme avec tige courbée, contenant une haworthia centrale aux feuilles vertes structurées, entourée de petites succulentes et d'une fougère miniature. Des galets dorés et beiges forment un chemin décoratif sur un substrat stratifié blanc et brun."
+    },
+    {
+      "id": 1,
+      "name": "Cactus Colonnaire en Fleur",
+      "description": "Un magnifique cactus colonnaire avec une fleur crème délicate, présenté dans un pot en céramique moderne bicolore.",
+      "price": 40,
+      "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/cactus.jpg",
+      "category": "plante",
+      "dimensions": "Pot: 12 cm diamètre / Hauteur totale: 25 cm",
+      "details": "Ce superbe cactus colonnaire présente deux tiges principales densément couvertes d'épines dorées. La plante est actuellement en fleur avec une magnifique fleur crème aux pétales délicats. Planté dans un pot moderne en céramique bicolore (beige et blanc) avec une bande décorative kaki. Le substrat est agrémenté de petites pierres colorées pour un drainage optimal.",
+      "care": "Exposition ensoleillée recommandée. Arrosage parcimonieux : une fois toutes les 3-4 semaines en été, très peu en hiver. Laissez le substrat sécher complètement entre les arrosages. Température optimale 18-28°C. La floraison indique une plante en bonne santé et mature.",
+      "visualDescription": "Cactus à deux tiges cylindriques vert foncé, densément couvertes d'épines dorées rayonnantes. Une fleur crème délicate s'épanouit au sommet d'une des tiges. Le pot en céramique présente un design moderne bicolore avec une partie supérieure beige, une bande décorative kaki et une base blanche. Le substrat est décoré de petites pierres multicolores."
+    }
+  ]
+}
