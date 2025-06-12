@@ -2,7 +2,7 @@
   "hero": {
     "title": "À propos de moi",
     "subtitle": "Passion · Création · Nature",
-    "image": "https://i.imgur.com/YybTG3p.jpeg",
+    "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/makingTerrarium.png",
     "imageAlt": "Hela Ben Letaifa avec des plantes"
   },
   "introduction": "Je m'appelle Hela Ben Letaifa, diplômée d'un Master en Horticulture, et passionnée depuis toujours par les plantes et l'univers végétal.",
@@ -12,7 +12,7 @@
       "Ce projet est né de mon envie de partager ma passion pour les terrariums, les cactus et les plantes grasses avec un plus grand public.",
       "Chaque composition que je crée est le fruit de mes connaissances scientifiques et de ma sensibilité artistique : des mini-jardins esthétiques, faciles à entretenir, qui apportent une touche de nature et de sérénité dans votre quotidien."
     ],
-    "image": "https://i.imgur.com/OQ8XsLD.jpeg",
+    "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/public/img/terre.png",
     "imageAlt": "Création de terrariums"
   },
   "values": {
