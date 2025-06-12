@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "DÉCORATION CACTUS",
-    "tagline": "MAGNIFIQUE DEPUIS Coin des Merveilles",
-    "description": "Ajoutez une touche de nature à votre intérieur avec nos cactus décoratifs.",
-    "ctaText": "DÉCOUVRIR",
-    "image": "https://i.postimg.cc/TPG6whRH/cactus2.png"
+    "title": "Décoration Cactus",
+    "tagline": "Élégance végétale signée Coin des Merveilles",
+    "description": "Apportez une touche naturelle et tendance à votre intérieur grâce à nos cactus décoratifs soigneusement sélectionnés.",
+    "ctaText": "Découvrir",
+    "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/cactus2.png"
   },
   {
     "id": 2,
-    "title": "COLLECTION DE SUCCULENTES",
-    "tagline": "EXCLUSIVITÉ DEPUIS Coin des Merveilles",
-    "description": "Découvrez notre collection unique de plantes grasses, parfaites pour tous les espaces.",
-    "ctaText": "ACHETER MAINTENANT",
-    "image": "https://i.postimg.cc/v4cw5q08/succulent.png"
+    "title": "Collection de Succulentes",
+    "tagline": "Une exclusivité Coin des Merveilles",
+    "description": "Explorez notre gamme raffinée de plantes grasses, idéales pour sublimer n'importe quel espace avec peu d'entretien.",
+    "ctaText": "Acheter maintenant",
+    "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/succulent.png"
   },
   {
     "id": 3,
-    "title": "TERRARIUM",
-    "tagline": "PREMIUM DEPUIS Coin des Merveilles",
-    "description": "Offrez un écosystème miniature à votre maison avec nos terrariums faits main.",
-    "ctaText": "EXPLORER",
-    "image": "https://i.postimg.cc/wtNKGtKS/terrarium.png"
+    "title": "Terrariums Artisanaux",
+    "tagline": "L’univers miniature par Coin des Merveilles",
+    "description": "Invitez la nature chez vous avec nos terrariums faits main, de véritables écosystèmes décoratifs et apaisants.",
+    "ctaText": "Explorer",
+    "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terrarium.png"
   }
 ]
