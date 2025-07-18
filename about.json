@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "À propos de moi",
+    "title": "À propos",
     "subtitle": "Passion · Création · Nature",
     "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/makingTerrarium.png",
-    "imageAlt": "Hela Ben Letaifa avec des plantes"
+    "imageAlt": "Création de terrarium"
   },
-"introduction": "Né en 2018, Coin des Merveilles est le fruit d'une passion profonde pour le monde végétal et l’art de créer des ambiances naturelles uniques à travers des compositions artisanales.",
+  "introduction": "Né en 2018, Coin des Merveilles est le fruit d'une passion profonde pour le monde végétal et l’art de créer des ambiances naturelles uniques à travers des compositions artisanales.",
   "mission": {
-    "title": "Ma Mission",
+    "title": "Notre Mission",
     "description": [
-      "Ce projet est né de mon envie de partager ma passion pour les terrariums, les cactus et les plantes grasses avec un plus grand public.",
-      "Chaque composition que je crée est le fruit de mes connaissances scientifiques et de ma sensibilité artistique : des mini-jardins esthétiques, faciles à entretenir, qui apportent une touche de nature et de sérénité dans votre quotidien."
+      "Partager la passion des plantes à travers des terrariums, des cactus et des plantes grasses, accessibles à tous.",
+      "Chaque création allie savoir-faire horticole et sensibilité artistique, pour offrir des mini-jardins esthétiques, faciles à entretenir, et porteurs de sérénité."
     ],
     "image": "https://raw.githubusercontent.com/HelaBenLetaifa/CoinDesMerveillesData/main/img/terre.png",
     "imageAlt": "Création de terrariums"
   },
   "values": {
-    "title": "Mes Valeurs",
+    "title": "Nos Valeurs",
     "items": [
       {
         "icon": "🌿",
@@ -36,7 +36,7 @@
     ]
   },
   "cta": {
-    "text": "Merci de me suivre dans cette belle aventure végétale 🌱",
-    "buttonText": "Découvrir mes créations"
+    "text": "Merci de faire partie de cette belle aventure végétale 🌱",
+    "buttonText": "Découvrir nos créations"
   }
 }
